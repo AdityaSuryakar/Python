@@ -1,4 +1,4 @@
-#Exp 3C - Pattern
+#Exp 3D - Pattern
 
 # Pattern 1
 print("Pattern 1:")
